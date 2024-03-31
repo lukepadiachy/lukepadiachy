@@ -33,6 +33,9 @@
 <code>.NET</code>
 </p>
 <p dir="auto">
+<strong>IDE</strong>
+<code>Visual Studio</code>
+<p dir="auto">
 <strong>Others:</strong>
 <code>Canva</code>
 <code>UI Design</code>
