@@ -80,4 +80,5 @@ Get in Touch, Connect me on <a href="https://www.linkedin.com/in/luke-padiachy/"
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" title="Write your first code using C# (Get started with C#, Part 1)" alt="Write your first code using C# (Get started with C#, Part 1)" width="40" height="40"/>&nbsp;
 <img src="https://images.credly.com/size/110x110/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" title="Azure Responsible AI Workshop - Completion" alt="Azure Responsible AI Workshop - Completion" width="40" height="40"/>&nbsp;
 <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" title="I/O 2024 - Registered" alt="I/O 2024 - Registered" width="40" height="40"/>&nbsp;
+<img src="https://learn.microsoft.com/en-us/training/achievements/ai-skills-challenge-april-2024.png" title="AI Skills Challenge" alt="AI Skills Challenge" width="40" height="40"/>&nbsp;
 </div>
