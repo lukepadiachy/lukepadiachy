@@ -29,7 +29,7 @@ Passionate about **community-driven learning** and helping others discover the f
 <br>
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,postman,git,github,githubactions,gmail,html,md,mysql,powershell,nextjs,ts,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,postman,git,github,githubactions,gmail,kotlin,html,md,mysql,powershell,figma,nextjs,ts,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
 
 <br>
 
